@@ -38,7 +38,7 @@
 
 ### 🔹 Hosting
 
-- 🔗 [Imagify is Live]()
+- 🔗 [Imagify is Live](https://imagify-pzo3.onrender.com)
 
 ---
 
